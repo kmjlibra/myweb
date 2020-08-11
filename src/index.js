@@ -3,7 +3,11 @@ import ReactDOM from 'react-dom';
 import './index.css';
 import App from './App';
 import * as serviceWorker from './serviceWorker';
+improt 'semantic-ui-css/semantic.min.class ClassName {
+  constructor() {
 
+  }
+}'
 ReactDOM.render(
   <React.StrictMode>
     <App />
